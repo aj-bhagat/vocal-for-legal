@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+!.env.local.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+bin/
+obj/
+*.user
+*.suo
+appsettings.Development.local.json
